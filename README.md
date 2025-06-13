@@ -11,7 +11,7 @@ Postmark CMS is a lightweight content management system that transforms emails i
 - **Image Handling**: Attachments automatically become post media
 - **Admin Dashboard**: Manage all content with a simple interface
 
-## 🛠️ Tech Stack
+##  Tech Stack
 | Component       | Technology |
 |-----------------|------------|
 | Backend         | Python + Flask |
@@ -19,7 +19,7 @@ Postmark CMS is a lightweight content management system that transforms emails i
 | Frontend        | Jinja2 Templates |
 | Email Processing| Postmark Inbound Webhooks |
 
-## 🚀 Local Installation
+##  Local Installation
 
 ### Prerequisites
 - Python 3.8+
